@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = git@github.com:art-house-box-office/server.git
+	url = https://github.com/art-house-box-office/server.git
 [submodule "client"]
 	path = client
-	url = git@github.com:art-house-box-office/client.git
+	url = https://github.com/art-house-box-office/client.git

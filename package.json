@@ -1,0 +1,37 @@
+{
+  "name": "art-house-box-office-app",
+  "version": "1.0.0",
+  "description": "Art House Box Office Application",
+  "main": "index.js",
+  "scripts": {
+    "build:client": "cd client && npm run build",
+    "build:server": "cd server && npm run build",
+    "deploy:client": "cd client && npm run deploy",
+    "deploy:server": "cd server && npm run deploy",
+    "start:client": "cd client && npm start",
+    "start:client:watch": "cd client && npm run start:watch",
+    "start:server": "cd server && npm start",
+    "start:server:watch": "cd server && npm run start:watch",
+    "test:client": "cd client && npm test",
+    "test:client:watch": "cd client && npm run test:watch",
+    "test:server": "cd server && npm test",
+    "test:server:watch": "cd server && npm run test:watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/art-house-box-office/app.git"
+  },
+  "author": "Art House Box Office (https://github.com/art-house-box-office)",
+  "contributors": [
+    "Dave Hanagan (https://github.com/billyham)",
+    "David Goodwin (https://github.com/goodwid)",
+    "Don Chatelain (https://github.com/DonChatelain)",
+    "Johnny Luangphasy (https://github.com/jluangphasy)",
+    "Yvonne Hayes (https://github.com/YvonneHayes)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/art-house-box-office/app/issues"
+  },
+  "homepage": "https://github.com/art-house-box-office/app#readme"
+}

@@ -9,13 +9,13 @@
     "deploy:client": "cd client && npm run deploy",
     "deploy:server": "cd server && npm run deploy",
     "start:client": "cd client && npm start",
-    "start:client:watch": "cd client && npm run start:watch",
+    "start:watch:client": "cd client && npm run start:watch",
     "start:server": "cd server && npm start",
-    "start:server:watch": "cd server && npm run start:watch",
+    "start:watch:server": "cd server && npm run start:watch",
     "test:client": "cd client && npm test",
-    "test:client:watch": "cd client && npm run test:watch",
+    "test:watch:client": "cd client && npm run test:watch",
     "test:server": "cd server && npm test",
-    "test:server:watch": "cd server && npm run test:watch"
+    "test:watch:server": "cd server && npm run test:watch"
   },
   "repository": {
     "type": "git",

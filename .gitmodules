@@ -1,6 +1,6 @@
-[submodule "server"]
-	path = server
-	url = https://github.com/art-house-box-office/server.git
 [submodule "client"]
-	path = client
-	url = https://github.com/art-house-box-office/client.git
+  path = client
+  url = https://github.com/art-house-box-office/client.git
+[submodule "server"]
+  path = server
+  url = https://github.com/art-house-box-office/server.git
